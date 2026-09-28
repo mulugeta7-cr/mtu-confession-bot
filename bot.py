@@ -9,8 +9,8 @@ logging.basicConfig(
 )
 
 # ----------------- CONFIGURATION -----------------
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # ከ BotFather ያገኘኸውን Token እዚህ ተካ
-CHANNEL_ID = "@YourChannelUsername"  # የቻናልህ Username (ምሳሌ፡ @mtu_vibes)
+BOT_TOKEN = "8866534606:AAHl8CbSOzeSZ4SJAAkjZ8isahFBZIRjaWc"
+CHANNEL_ID = "@MTU gc confusion "  
 # -------------------------------------------------
 
 # የፖስት ቁጥር መቆጠሪያ (Counter)
@@ -19,7 +19,7 @@ post_counter = 1
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     welcome_text = (
         "🎓 **እንኳን ወደ MTU GC Senior Confession Bot በሰላም መጣችሁ!**\n\n"
-        "4 ዓመት ሙሉ ሳትናገሩት በልባችሁ የያዛችሁትን አድናቆት፣ ፍቅር ወይም የስንብት መልእክት ይላኩ።\n\n"
+        "4 ዓመት ሙሉ ሳትናገሩት በልባችሁ የያዛችሁትን አድናቆት, Rost,ፍቅር ወይም የስንብት መልእክት ይላኩ።\n\n"
         "🔒 **ማንነታችሁ 100% የተጠበቀ ነው (Anonymous)።** መልእክትዎ ወዲያውኑ ቻናል ላይ ይለቀቃል!"
     )
     await update.message.reply_text(welcome_text, parse_mode="Markdown")

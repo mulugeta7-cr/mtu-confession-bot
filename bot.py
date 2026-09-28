@@ -10,7 +10,8 @@ logging.basicConfig(
 
 # ----------------- CONFIGURATION -----------------
 BOT_TOKEN = "8866534606:AAHl8CbSOzeSZ4SJAAkjZ8isahFBZIRjaWc"
-CHANNEL_ID = "https://t.me/mtugcconfsionchanale "  
+# ትክክለኛው የቻናል Username (@ ምልክት ጨምረህ)
+CHANNEL_ID = "@mtugcconfsionchanale"  
 # -------------------------------------------------
 
 # የፖስት ቁጥር መቆጠሪያ (Counter)
@@ -38,7 +39,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"\"{user_text}\"\n\n"
         f"🎓 **Target:** GC Batch 2026\n"
         f"🏷️ **Category:** ❤️ Unspoken Love\n\n"
-        f"📩 እርስዎስ አድናቆትዎን አልላኩም? 👉 @CampusConfess_bot"
+        f"📩 እርስዎስ አድናቆትዎን አልላኩም? 👉 @MTUGCConfusion_bot"
     )
 
     try:

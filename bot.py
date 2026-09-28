@@ -10,7 +10,7 @@ logging.basicConfig(
 
 # ----------------- CONFIGURATION -----------------
 BOT_TOKEN = "8866534606:AAHl8CbSOzeSZ4SJAAkjZ8isahFBZIRjaWc"
-CHANNEL_ID = "@MTU gc confusion "  
+CHANNEL_ID = "https://t.me/mtugcconfsionchanale "  
 # -------------------------------------------------
 
 # የፖስት ቁጥር መቆጠሪያ (Counter)

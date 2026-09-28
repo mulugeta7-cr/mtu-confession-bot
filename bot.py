@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 # ----------------- CONFIGURATION -----------------
-BOT_TOKEN = "8866534606:AAHl8CbSOzeSZ4SJAAkjZ8isahFBZIRjaWc"
+BOT_TOKEN = "8931750170:AAEdJTa_jc-ZvcOyZzAB-HXmGD2Nt4el5kk"
 # ትክክለኛው የቻናል Username (@ ምልክት ጨምረህ)
 CHANNEL_ID = "@mtugcconfsionchanale"  
 # -------------------------------------------------

@@ -39,7 +39,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"\"{user_text}\"\n\n"
         f"🎓 **Target:** GC Batch 2026\n"
         f"🏷️ **Category:** ❤️ Unspoken Love\n\n"
-        f"📩 እርስዎስ አድናቆትዎን አልላኩም? 👉 @MTUGCConfusion_bot"
+        f"📩 እርስዎስ መናገር ሚፈልጉት ሀሳብ አለ ? 👉 @MTUGCConfusion_bot"
     )
 
     try:
